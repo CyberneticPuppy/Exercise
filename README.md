@@ -4,8 +4,8 @@
         <tittle>Ejercicio de Introducción a HTML en OpenBootcamp</tittle>
     </head>
     <body>
-        <div>Este es mi primer comentario de dos líneas<br>
-            Aprendiendo a documentar mi código con OpenBootCamp</div>
+        <!--Este es mi primer comentario de dos líneas
+            Aprendiendo a documentar mi código con OpenBootCamp-->
         
         <ul>
             <li><a href="https://www.youtube.com/watch?v=YDXOioU_OKM&t=17s&ab_channel=ZealousCreative">The Maker</a></li>
